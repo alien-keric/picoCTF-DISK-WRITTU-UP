@@ -1,1 +1,1 @@
-# picoCTF-DISK-WRITTU-UP
+# picoCTF-DISK-WRITTE-UP
